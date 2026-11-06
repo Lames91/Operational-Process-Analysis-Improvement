@@ -2,7 +2,7 @@
 
 ## Overview
 
-This case study analyzes activity repetitions within a business process during a selected period in 2026, with a focus on distinguishing normal operational repetitions from avoidable resubmissions caused by specific issues.
+This case study analyzes activity repetitions within a business process during a selected period in 2026, focusing on distinguishing normal operational repetitions from avoidable resubmissions caused by specific issues.
 
 Rather than treating every repeated activity as rework, the analysis applies detailed activity-level validation to isolate actual resubmissions, identify their root causes, and map each issue to the responsible department.
 
@@ -12,13 +12,13 @@ The objective is to uncover the main drivers of avoidable rework, highlight area
 
 ### 1. Pareto Analysis – Identifying Key Activities
 
-Applied Pareto analysis to identify the activities with the highest repetition volumes and prioritize the analysis.
+Applied Pareto analysis to identify the activities with the highest repetition volumes and prioritize the investigation.
 
 - Ranked activities based on repetition volume.
 - Identified the top three activities.
-- Focused the detailed investigation on the highest-volume activities.
+- Focused detailed validation on the highest-volume activities.
 
-The top three activities represented approximately 80% of the total process activity volume, making them the primary focus of the investigation.
+The top three activities represented approximately 80% of the total process activity volume.
 
 ### 2. Manual Validation – Distinguishing Normal Repetition from Rework
 
@@ -43,11 +43,7 @@ The analysis identified:
 
 Examined how actual resubmissions were distributed across responsible departments to identify where rework was most concentrated.
 
-The analysis included:
-
-- Resubmissions by responsible department.
-- Department-level contribution to total resubmissions.
-- Identification of departments with the highest resubmission volumes.
+The analysis highlighted Dep 2 (33%) and Dep 6 (30.5%) as the departments with the highest shares in the department distribution.
 
 ### 5. Activity-Level Analysis
 
@@ -72,7 +68,7 @@ Documentation-related issues emerged as major contributors to resubmissions.
 
 - The top three activities represented approximately 80% of total process activity volume.
 - Manual validation identified 613 activities affected by resubmissions out of 1,679 total activities, equivalent to approximately 36%.
-- Resubmissions were concentrated mainly within Dep 1 (33%) and Dep 2 (30.5%).
+- Department-level analysis showed the highest shares in Dep 2 (33%) and Dep 6 (30.5%).
 - Documentation-related issues were among the main drivers of resubmissions.
 - Linking individual issues to responsible departments helped identify where corrective actions should be focused.
 
@@ -111,6 +107,32 @@ By identifying the main repetition drivers, validating actual resubmissions, and
 - Root cause and responsibility analysis.
 - Process improvement recommendations.
 - Analytical presentation.
+
+## Screenshots
+
+### 1. Introduction
+![Introduction](Screenshots/01-introduction.png)
+
+### 2. Pareto Analysis
+![Pareto Analysis](Screenshots/02-pareto-analysis.png)
+
+### 3. Repetition Impact
+![Repetition Impact](Screenshots/03-repetition-impact.png)
+
+### 4. Department Analysis
+![Department Analysis](Screenshots/04-department-analysis.png)
+
+### 5. Activity Analysis
+![Activity Analysis](Screenshots/05-activity-analysis.png)
+
+### 6. Root Cause Analysis
+![Root Cause Analysis](Screenshots/06-root-cause-analysis.png)
+
+### 7. Department Responsibility
+![Department Responsibility](Screenshots/07-department-responsibility.png)
+
+### 8. Recommendations
+![Recommendations](Screenshots/08-recommendations.png)
 
 ## Data Confidentiality
 
