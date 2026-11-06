@@ -174,6 +174,41 @@ It also provides insight into the stabilization of a newly introduced process an
 - DMAIC-based improvement and control framework.
 - Analytical presentation.
 
+  ## Dashboard & Analysis Screenshots
+
+### 1. Introduction
+![Introduction](Screenshots/01-introduction.png)
+
+### 2. Resubmission Summary
+![Resubmission Summary](Screenshots/02-resubmission-summary.png)
+
+### 3. Monthly Resubmission Trend
+![Monthly Trend](Screenshots/03-monthly-resubmission-trend.png)
+
+### 4. Completion Time Comparison
+![Completion Time](Screenshots/04-completion-time-comparison.png)
+
+### 5. Frequency vs. Delay Impact
+![Frequency vs Delay](Screenshots/05-frequency-vs-delay-impact.png)
+
+### 6. Pareto Delay Analysis
+![Pareto Analysis](Screenshots/06-pareto-delay-analysis.png)
+
+### 7. Root Cause Analysis
+![Root Cause](Screenshots/07-root-cause-analysis.png)
+
+### 8. Define, Measure & Analyze
+![DMAIC Analysis](Screenshots/08-define-measure-analyze.png)
+
+### 9. Improve & Control
+![Improve and Control](Screenshots/09-improve-control.png)
+
+### 10. Resubmission Reasons
+![Resubmission Reasons](Screenshots/10-resubmission-reasons.png)
+
+### 11. Appendix
+![Appendix](Screenshots/11-appendix.png)
+
 ## Data Confidentiality
 
 This case study has been anonymized for portfolio purposes. Process identifiers, activity names, department names, dates, and operational details have been generalized. No proprietary source data is included.
