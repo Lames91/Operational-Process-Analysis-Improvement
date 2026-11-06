@@ -118,7 +118,14 @@ The resulting insights support workload assessment, operational performance moni
 - Activity repetition overview.
 - Repetition distribution and time impact analysis.
 - Monthly repetition trend analysis.
+- 
+## Dashboard Screenshots
 
+### 1. Processing Duration Overview
+![Duration Overview](Screenshots/01-duration-overview.png)
+
+### 2. Activity Repetition Overview
+![Activity Repetition](Screenshots/02-activity-repetition-overview.png)
 ## Data Confidentiality
 
 This case study has been anonymized for portfolio purposes. Process identifiers, department names, activity names, and operational details have been generalized. No proprietary source data is included.
